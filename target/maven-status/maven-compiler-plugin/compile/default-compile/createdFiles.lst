@@ -1,0 +1,17 @@
+page\objects\AddingItemToWishList.class
+page\objects\UserVerifyCurrencyValuesChange.class
+page\objects\AddAndRemoveMacbook.class
+page\objects\VerifyShoppingCartEmpty.class
+page\objects\ValidateThePriceOfMacbook.class
+page\objects\DesktopsPage.class
+page\objects\EditAccountInfo.class
+utilities\Util.class
+page\objects\EditAffiliateInfo.class
+page\objects\RegisterAsAffiliate.class
+page\objects\AddHPLaptopToCart.class
+page\objects\AddCanonEos5D.class
+core\Base.class
+page\objects\Login.class
+utilities\CucumberReportingConfig.class
+page\objects\AddReviewToCanonEos5D.class
+page\objects\ProductComparison.class

@@ -1,0 +1,16 @@
+step\definition\Initializer.class
+step\definition\EditAccountInfoStepDef.class
+step\definition\AddCanonEos5DStepDef.class
+step\definition\ProductComparisonStepDef.class
+step\definition\AddReviewToCanonEos5DStepDef.class
+step\definition\DesktopStepDef.class
+step\definition\AddAndRemoveMacbookStepDef.class
+step\definition\UserVerifyCurrencyValuesChangeStepDef.class
+step\definition\ValidateThePriceOfMacbookProStepDef.class
+step\definition\verifyShoppingCartEmptyStepDef.class
+step\definition\AddHPLaptopToCartStepDef.class
+runner\TestRunner.class
+step\definition\LoginStepDef.class
+step\definition\AddingItemToWishListStepDef.class
+step\definition\EditAffiliateInfoStepDef.class
+step\definition\RegisterAsAffiliateStepDef.class
